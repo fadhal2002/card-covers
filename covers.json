@@ -1,17 +1,9 @@
 {
-    "Minimal": {
-        "en": "Minimal",
-        "ar": "بسيط",
-        "images": [
+    "Minimal":  [
             "https://images.iimg.live/images/amazing-shot-4119.webp",
             "https://images.iimg.live/images/awesome-image-6449.webp"
-        ]
-    },
-    "Anime": {
-        "en": "Anime",
-        "ar": "أنمي",
-        "images": [
+        ],
+    "Anime": [
             "https://images.iimg.live/images/awesome-image-6449.webp"
         ]
-    }
 }
